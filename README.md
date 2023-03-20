@@ -1,4 +1,4 @@
-# Desktop
+# KratinLLC Project
 The objective is:
 For those over 65 years of age only, I created this project to address their health conditions. According to the given assignment to Susmitha Sharma (65+), people only require my project.
 Competencies:
